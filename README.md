@@ -10,8 +10,17 @@ Integrantes:
 - Axel Adolfo Muralles Carranza
 
 # Tarea 1 Scrapping 
+
+- [Descripcion](#descripcion)
+- [Requerimientos](#requerimientos)
+- [Instrucciones](#instrucciones)
+- [Estructura del archivo de salida](#estructura-del-archivo-de-salida)
+- [Descripcion del contenido del sitio web](#descripcion-del-contenido-del-sitio-web)
+- [Contribuciones](#contribuciones)
+
+
 ## Descripcion:
-Webscrapper de reseñas y calificaciones del top 25 de peliculas mas popular en el sitio <a href="https://www.imdb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/245px-IMDB_Logo_2016.svg.png" width="46" height="24"/></a>
+Webscrapper de reseñas y calificaciones del top 25 de peliculas mas populares en el sitio <a href="https://www.imdb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/245px-IMDB_Logo_2016.svg.png" width="46" height="24"/></a>
  
 ## Requerimientos:
 - Requiere instalacion de [Anaconda Distribution](https://www.anaconda.com/products/distribution) o [miniconda](https://docs.conda.io/en/latest/miniconda.html)
@@ -87,3 +96,5 @@ datakey
 <br/>
 <img src="https://lh3.googleusercontent.com/y-DRyI0_XGJ90dlXde1av-YalNvykbxUO32V4cEkrlzd-niaahcRdqqmF6j-0CIIVRmRFWVfZdmSB4wky314LifENcj-n4xnSdguAGiZRF3KX8xUyGEBEtKvCEtf2S1TvJikZZtAew=w2400"/>
 <br/>
+
+##Contribuciones
