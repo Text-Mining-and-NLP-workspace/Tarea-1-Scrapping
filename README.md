@@ -1,5 +1,5 @@
 <a href="https://www.uvg.edu.gt/"><img align="left" src="https://www.uvg.edu.gt/wp-content/uploads/socialshare-logo.jpg" width="90" height="90"></a>
-**_Coorporate Master in Applied Data Science_**<br/>
+**_Corporate Master in Applied Data Science_**<br/>
 **_Text Mining & Natural Language Processing_**<br/>
 **_Catedratico: Pedro Alberto Aguilar Nuñez_**<br/>
 <br/>
@@ -10,13 +10,13 @@ Integrantes:
 - Axel Adolfo Muralles Carranza
 
 # Tarea 1 Scrapping 
-#### Descripcion:
+## Descripcion:
 Webscrapper de reseñas y calificaciones del top 25 de peliculas mas popular en el sitio <a href="https://www.imdb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/245px-IMDB_Logo_2016.svg.png" width="46" height="24"/></a>
  
-#### Requerimientos:
+## Requerimientos:
 - Requiere instalacion de [Anaconda Distribution](https://www.anaconda.com/products/distribution) o [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-#### Instrucciones:
+## Instrucciones:
 
 clonamos este repositorio en el directorio deseado desde una terminal, para windows podemos utilizar [Git Bash](https://gitforwindows.org/) 
 ```
@@ -48,18 +48,23 @@ scrapy crawl imdb
 ```
 como salida se creara el archivo **_imdb_most_popular_reviews.csv_** en nuestro directorio de trabajo
 
-#### Estructura del archivo de salida
+## Estructura del archivo de salida
 
 El archivo de salida tiene formato **csv**, y consta de dos columnas
 - **rating:** la calificacion de la reseña, en numeros enteros del 1 al 10
 - **review:** el texto completo de la reseña del usuario
 <br/>
- 
+
 | rating | review|
 |-----------|:-----------:|
 | 10 | "What a great movie" |
 | 5 | "Good CGI, but that's a given nowadays"|
 | 1 | "Don't watch this movie" |
 
-#### Descripcion del Contenido del sitio Web 
+
+## Descripcion del Contenido del sitio Web 
+<a href="https://www.imdb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/245px-IMDB_Logo_2016.svg.png"/></a><br/>
+> **Internet Movie Database** (IMDb, en español: Base de datos de películas en Internet) es una base de datos en línea que en un principio almacena información relacionada con películas, y con el tiempo se transforma en la base de datos más grande del mundo donde se encuentran programas de televisión, eventos en vivo y difundidos en televisión o en la web, entrega de premios y especiales. Se encuentra el personal de equipo de producción (incluyendo directores y productores), actores, series y programas de televisión, videojuegos, actores de doblaje y personajes ficticios que aparecen en los medios de entretenimiento visual. Recibe más de 100 millones de usuarios únicos al mes y cuenta con una versión móvil. IMDb fue inaugurada el 17 de octubre de 1985, y en 1998 fue adquirida por Amazon.com. _(fuente: Wikipedia)_
+
+
 
