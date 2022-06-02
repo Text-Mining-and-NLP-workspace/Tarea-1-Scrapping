@@ -1,5 +1,4 @@
 <a href="https://www.uvg.edu.gt/"><img style="float: left;" src="https://www.uvg.edu.gt/wp-content/uploads/socialshare-logo.jpg" width="90" height="90"></a>
-<br/>
 **_Coorporate Master in Applied Data Science_**<br/>
 **_Text Mining & Natural Language Processing_**<br/>
 **_Catedratico: Pedro Alberto Aguilar Nuñez_**<br/>
@@ -61,6 +60,9 @@ El archivo de salida tiene formato **csv**, y consta de dos columnas
 | 10 | "What a great movie" |
 | 5 | "Good CGI, but that's a given nowadays"|
 | 1 | "Don't watch this movie" |
+
+#### Descripcion del Contenido del sitio Web
+
 
 
 
