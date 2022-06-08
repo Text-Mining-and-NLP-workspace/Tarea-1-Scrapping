@@ -8,6 +8,7 @@ Integrantes:
 - Aldo Montenegro Margnoni
 - Gabriel Fernando Montenero Ortiz
 - Axel Adolfo Muralles Carranza
+- German Antonio Oliva Muralles
 
 # Tarea 1 Scrapping 
 
