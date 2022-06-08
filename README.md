@@ -127,6 +127,14 @@ Con estos datos podemos realizar las itereaciones necesarias para obtener todas 
 
 <br/>
 
+- German Antonio Oliva Muralles
+    - Desarrollo Scrapy spider
+    - Edicion README.md
+    - pruebas de ejecucion y calidad
+	- validacion de instrucciones
+
+<br/>
+
 ## Settings
 
 En el archivo settings.py se agregaron las siguientes configuraciones, debido a que con las concurrencias por defecto causa que el sitio IMDb coloque en lista negra nuestra IP por una cantidad de tiempo, bloqueando asi nuestras peticiones, esto lo hace en general para evitar ataques DoS. las configuraciones causan que la spider tarde mas en obtener toda la informacion, pero se asegura que no se pierdan reseñas y que no se tenga bloqueos por lista negra.
